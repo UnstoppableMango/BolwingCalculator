@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BowlingCalculator", "BowlingCalculator\BowlingCalculator.fsproj", "{7015AFE7-77CD-42CA-941F-3B3017EDD56A}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "BowlingCalculator.Tests", "BowlingCalculator.Tests\BowlingCalculator.Tests.fsproj", "{A022B9C5-9E49-4A90-95A2-86C6B0E52006}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7015AFE7-77CD-42CA-941F-3B3017EDD56A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7015AFE7-77CD-42CA-941F-3B3017EDD56A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7015AFE7-77CD-42CA-941F-3B3017EDD56A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7015AFE7-77CD-42CA-941F-3B3017EDD56A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A022B9C5-9E49-4A90-95A2-86C6B0E52006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A022B9C5-9E49-4A90-95A2-86C6B0E52006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A022B9C5-9E49-4A90-95A2-86C6B0E52006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A022B9C5-9E49-4A90-95A2-86C6B0E52006}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
